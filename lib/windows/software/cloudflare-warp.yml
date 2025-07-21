@@ -2,4 +2,3 @@ url: https://downloads.cloudflareclient.com/v1/download/windows/version/2025.2.6
 self_service: true
 post_install_script:
   path: ../scripts/warp-config.sh
-	
